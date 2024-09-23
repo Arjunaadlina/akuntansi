@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Revice",
+    "slug": "Revice",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconRevice.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iconRevice.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.arjuna_adlina.Revice",
+      "icon": "./assets/iconRevice.png"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f5c6a28a-d334-4fe3-a399-e41fffc6a4cc"
+      }
+    }
+  }
+}
